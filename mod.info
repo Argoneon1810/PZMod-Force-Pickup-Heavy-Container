@@ -1,0 +1,4 @@
+name=Force Pickup Heavy Container
+poster=Poster.png
+id=FPHC
+description=Allow player to pickup heavy container (like HCHanddolly, HCForklift, etc.) beyond its weight limit.
